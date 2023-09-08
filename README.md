@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 
-<img align="right" alt="Coding" width="280" height="280" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="280" height="260" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenzin&label=Profile%20views&color=0e75b6&style=flat" alt="tenzin" /> </p>
 
 - 🔭 I’m currently working on **Interior Design Website**
